@@ -1,0 +1,6 @@
+{
+  "name": "AetherMotion - VR Qo'l Harakati va Fazoviy Boshqaruv Tizimi",
+  "description": "Kamera orqali real vaqt rejimida qo'l va barmoqlar harakatini kuzatuvchi, 3D VR obyektlarni fazoda boshqaruvchi va sensor telemetriya tizimi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
